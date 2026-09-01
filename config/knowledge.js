@@ -37,6 +37,11 @@ Code promo unique : 66LDC
 Ce code DOIT être entré au moment de l'inscription. Il est impossible de l'ajouter
 une fois le compte créé, quelle que soit la raison invoquée.
 
+-- 1XBET --
+Lien d'inscription : https://reffpa.com/L?tag=d_5927555m_1573c_&site=5927555&ad=1573
+Emplacement du code promo : champ "Code promo" dans le formulaire d'inscription,
+  avant la validation.
+
 -- PARIPESA (recommandé en priorité) --
 Lien d'inscription : https://combodef.com/L?tag=d_5896111m_60651c_&site=5896111&ad=60651
 Emplacement du code promo : champ "Code promo" ou "Code bonus" dans le formulaire
@@ -50,7 +55,7 @@ Emplacement du code promo : cliquer sur le lien "J'ai un code promo" qui appara�
 
 === GUIDE D'INSCRIPTION ÉTAPE PAR ÉTAPE ===
 
-Étape 1 : Cliquer sur le lien officiel du bookmaker choisi (PariPesa ou Melbet).
+Étape 1 : Cliquer sur le lien officiel du bookmaker choisi (1xBet, PariPesa ou Melbet).
 Étape 2 : Choisir la méthode d'inscription (numéro de téléphone ou e-mail recommandé).
 Étape 3 : Renseigner ses informations personnelles (nom, prénom, date de naissance,
            numéro de téléphone ou e-mail, pays, devise).
@@ -82,6 +87,8 @@ Emplacement du code promo : cliquer sur le lien "J'ai un code promo" qui appara�
   → Solution : s'inscrire avec une adresse e-mail à la place du numéro.
 
 -- Champ code promo introuvable --
+• 1xBet : chercher le champ "Code promo" dans le formulaire d'inscription,
+  avant la validation.
 • PariPesa : chercher le champ "Code promo" ou "Code bonus" dans le formulaire
   d'inscription, avant la validation.
 • Melbet : appuyer sur le texte "J'ai un code promo" pour afficher le champ.
