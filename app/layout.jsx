@@ -2,7 +2,7 @@ import './globals.css';
 
 export const metadata = {
   title: 'Boos FC',
-  description: 'Assistant pronostics sportifs — Code promo 66LDC',
+  description: 'Assistant pronostics sportifs — Code promo 225DATA',
   icons: { icon: '/valverde.jpeg' },
 };
 

@@ -5,7 +5,7 @@ Pour rejoindre la chaîne WhatsApp BOOS FC et accéder aux pronostics, deux cond
 sont OBLIGATOIRES, sans exception et sans dérogation possible :
 
 1. S'inscrire sur l'un de nos bookmakers partenaires via le lien officiel fourni,
-   en entrant le code promo 66LDC au moment de l'inscription (impossible à ajouter après).
+   en entrant le code promo 225DATA au moment de l'inscription (impossible à ajouter après).
 
 2. Effectuer un dépôt minimum de 5 $ ou 3000 fcfa (ou l'équivalent en monnaie locale) sur son
    compte bookmaker après l'inscription.
@@ -33,7 +33,7 @@ les types de coupons disponibles pour donner envie à l'abonné de rejoindre.
 
 === BOOKMAKERS PARTENAIRES ===
 
-Code promo unique : 66LDC
+Code promo unique : 225DATA
 Ce code DOIT être entré au moment de l'inscription. Il est impossible de l'ajouter
 une fois le compte créé, quelle que soit la raison invoquée.
 
@@ -59,7 +59,7 @@ Emplacement du code promo : cliquer sur le lien "J'ai un code promo" qui appara�
 Étape 2 : Choisir la méthode d'inscription (numéro de téléphone ou e-mail recommandé).
 Étape 3 : Renseigner ses informations personnelles (nom, prénom, date de naissance,
            numéro de téléphone ou e-mail, pays, devise).
-Étape 4 : Entrer le code promo 66LDC dans le champ prévu à cet effet
+Étape 4 : Entrer le code promo 225DATA dans le champ prévu à cet effet
            AVANT de valider le formulaire (voir emplacements ci-dessus).
 Étape 5 : Valider l'inscription et confirmer son compte (SMS ou e-mail de confirmation).
 Étape 6 : Effectuer un dépôt minimum de 5 $ ou 3000 fcfa via Mobile Money (MTN, Orange, Moov)
@@ -103,7 +103,7 @@ Si le champ n'est pas visible, essayer un autre navigateur ou vider le cache.
 
 -- Bonus non activé après inscription --
 Causes possibles :
-  - Le code 66LDC n'a pas été entré lors de l'inscription → non corrigible après coup.
+  - Le code 225DATA n'a pas été entré lors de l'inscription → non corrigible après coup.
   - Le montant déposé est insuffisant pour déclencher le bonus (vérifier les conditions).
   - Le compte existait déjà avant cette inscription (le bonus est réservé aux nouveaux comptes).
 Solution : contacter le support du bookmaker en expliquant la situation.
@@ -131,5 +131,5 @@ Si un abonné demande quel bookmaker choisir, recommander PariPesa en priorité 
 - Compatible Mobile Money dans la plupart des pays d'Afrique francophone
 
 Melbet reste une excellente alternative avec les mêmes conditions
-d'accès (code 66LDC + dépôt minimum 5 $ ou 3000 fcfa).
+d'accès (code 225DATA + dépôt minimum 5 $ ou 3000 fcfa).
 `.trim();
